@@ -1,0 +1,75 @@
+body {
+  background-color: #7a7a73;
+}
+
+p {
+  color: white;
+}
+
+.aloja {
+  font-family: "Aloja Extended", sans-serif;
+}
+
+.ljs {
+  font-family: "Le Jour Serif", serif;
+}
+
+.header {
+  background-color: #57564f;
+  text-align: center;
+}
+
+.title {
+  font-size: 53px;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+.st {
+  font-size: 22px;
+  margin-top: 0px;
+}
+
+.box {
+  background-color: #dddad0;
+  height: 250px;
+  width: 250px;
+  border-radius: 30%;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.text {
+  margin-left: 90px;
+  font-size: 40px;
+}
+
+.jst {
+  margin-left: 30px;
+}
+
+.rt {
+  margin-left: 50px;
+}
+
+.nt {
+  margin-left: 60px;
+}
+
+.wdt {
+  margin-left: 10px;
+}
+
+.first {
+  display: flex;
+  gap: 20px;
+  margin-left: 350px;
+}
+
+.second {
+  display: flex;
+  gap: 20px;
+  margin-left: 350px;
+}

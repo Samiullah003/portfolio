@@ -1,0 +1,45 @@
+body {
+  background-color: #7a7a73;
+}
+
+.header {
+  background-color: #57564f;
+  text-align: center;
+}
+
+p {
+  color: white;
+}
+
+.aloja {
+  font-family: "Aloja Extended", sans-serif;
+  font-size: 53px;
+}
+
+.ljs {
+  font-family: "Le Jour Serif", serif;
+}
+
+.two {
+  font-size: 22px;
+}
+
+.one {
+  font-size: 16px;
+}
+
+.about {
+  height: 500px;
+  width: 700px;
+  margin-left: 550px;
+  margin-top: 100px;
+}
+
+.bottom {
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+.top {
+  margin-top: 0px;
+}
