@@ -5,6 +5,8 @@ body {
 .header {
   background-color: #57564f;
   text-align: center;
+  display: flex;
+  gap: 50px;
 }
 
 p {
@@ -61,4 +63,21 @@ p {
 
 .set {
   margin-left: 550px;
+  margin-top: 20px;
+}
+
+button {
+  font-size: 15px;
+  background-color: #dddad0;
+  color: white;
+  border-radius: 20px;
+}
+
+.button {
+  margin-top: 100px;
+  margin-left: 10px;
+}
+
+.intro {
+  margin-left: 460px;
 }
