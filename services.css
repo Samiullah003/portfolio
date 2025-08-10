@@ -13,6 +13,8 @@ p {
 .header {
   background-color: #57564f;
   text-align: center;
+  display: flex;
+  gap: 50px;
 }
 
 #one {
@@ -61,3 +63,20 @@ p {
   gap: 20px;
   margin-left: 350px;
 }
+
+button {
+  font-size: 15px;
+  background-color: #dddad0;
+  color: white;
+  border-radius: 20px;
+}
+
+.button {
+  margin-top: 100px;
+  margin-left: 10px;
+}
+
+.intro {
+  margin-left: 450px;
+}
+
